@@ -1,0 +1,8 @@
+[
+    {"id":"1", "icd":"abc", "tail_number":"FL123", "flight_number":"MA-828", "data":{} },
+    {"id":"2", "icd":"aba", "tail_number":"HM124", "flight_number":"US-425", "data":{} },
+    {"id":"3", "icd":"xyz", "tail_number":"ML344", "flight_number":"NZ-154", "data":{} },
+    {"id":"4", "icd":"aql", "tail_number":"MS151", "flight_number":"UY-784", "data":{} },
+    {"id":"5", "icd":"mls", "tail_number":"KL654", "flight_number":"AT-215", "data":{} },
+    {"id":"6", "icd":"qwe", "tail_number":"UT879", "flight_number":"ML-231", "data":{} }
+]
